@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url><loc>https://ibrar-syed.netlify.app/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+
+  <url><loc>https://ibrar-syed.netlify.app/blog/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/get-started/</loc><lastmod>2023-10-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/notebook-onboarding/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/second-brain/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/data-visualization/</loc><lastmod>2023-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/teach-courses/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/blog/project-management/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+
+  <url><loc>https://ibrar-syed.netlify.app/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/projects/pytorch/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/projects/pandas/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/projects/scikit/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+
+  <url><loc>https://ibrar-syed.netlify.app/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
+
+  <url><loc>https://ibrar-syed.netlify.app/publications/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/2/</loc><lastmod>2025-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/3/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/4/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/5/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/6/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/7/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/8/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/publications/9/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+
+  <url><loc>https://ibrar-syed.netlify.app/tags/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/tags/ai/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/tags/deep-learning/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/tags/medical-imaging/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://ibrar-syed.netlify.app/tags/skin-cancer/</loc><lastmod>2026-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+
+</urlset>
