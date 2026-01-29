@@ -30,7 +30,7 @@ abstract: |
   This research has helped minimize the fluid flow and upsurges the fluid temperature and associated thermal boundary thickness by increasing the amount of Hartmann. In addition, the effect of the mixed convection and applied magnetics transverse field is studied.
 
 authors:
-  - admin
+  - Syed Ibrar Hussain
 
 featured_image: "figure1.jpg"
 

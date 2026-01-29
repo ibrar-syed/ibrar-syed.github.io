@@ -1,3 +1,4 @@
 User-agent: *
+Allow: /
 
-Sitemap: https://ibrar-syed.github.io/sitemap.xml
+Sitemap: https://ibrar-syed.netlify.app/sitemap.xml
