@@ -4,7 +4,7 @@ date: 2025-05-29
 lastmod: 2025-05-29
 
 event: "Radiomics and Imaging Group Seminar"
-event_url: "https://www.rimedfoundation.org/"
+event_url: "https://www.fondazionerimed.eu/"
 location: "Ri.MED Foundation, Palermo, Italy"
 
 event_type: seminar
@@ -40,17 +40,17 @@ abstract: |
 authors:
   - Syed Ibrar Hussain
 
-featured_image: "figure1.png"
+featured_image: "prostate-segmentation.png"
 
 images:
-  - "figure1.png"
+  - "prostate-segmentation.png"
 
 imageCaptions:
   - "Illustration of deep learning prostate segmentation models and radiomics workflow."
 
 links:
   - name: Seminar Details
-    url: "https://www.rimedfoundation.org/"
+    url: "https://www.fondazionerimed.eu/"
 
 draft: false
 ---

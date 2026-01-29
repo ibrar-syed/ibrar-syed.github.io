@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentation at NodyCon 2023, Rome"
+title: "Research Article Presentation at NodyCon 2023, Rome"
 date: 2023-06-18
 lastmod: 2023-06-22
 
