@@ -24,29 +24,30 @@ sections:
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of AI in the Medical Informatics.
+        I specialize in applying advanced artificial intelligence (AI) and deep learning techniques to complex problems in medical imaging, radiomics, and computational fluid dynamics. My research focuses on developing and evaluating novel deep learning architectures—including U-Net, E-Net, GANs, transformer models, and diffusion models—for automated segmentation and analysis of prostate MRI datasets and other biomedical imaging applications.
 
-        Please reach out to collaborate 😃
+        I also investigate nanofluid dynamics, mixed convection, and variable viscosity effects, exploring the thermal and transport properties of hybrid nanoparticles in fluids to enhance heat transfer and material conductivity.
+
+        My work integrates quantitative image analysis, radiomics, and advanced modeling to improve diagnostic accuracy, clinical decision-making, and personalized healthcare strategies. I evaluate the clinical applicability of generative AI and deep learning models in medical imaging workflows, focusing on accurate segmentation, predictive modeling, and radiomics feature extraction.
+
+        I am always open to collaborations and interdisciplinary projects at the intersection of AI, medical imaging, computational modeling, and applied physics. Let’s connect to explore innovative solutions! 😃
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -58,6 +59,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -68,6 +70,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -77,17 +80,15 @@ sections:
           - events
     design:
       view: card
+
   - block: collection
     id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
       count: 10
-      # Filter on criteria
       filters:
         author: ''
         category: ''
@@ -96,18 +97,15 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ''
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: card
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -123,7 +121,6 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
 ---

@@ -15,9 +15,7 @@ status:
   icon: "☕️"
 role: Senior AI Research Scientist
 bio: |
-  Ph.D. | AI Researcher | Deep Learning & Computer Vision | Medical Imaging | Generative Models (GANs, Diffusion, Transformers) 
-  | HPC (CUDA, SLURM)
-  Advancing resilient deep learning systems for complex visual data through architectural innovation and scalable optimization.
+  I am a postdoctoral researcher specializing in multimodal and generative deep learning for biomedical imaging and genetics. Experienced in developing CNNs, GANs, and       	diffusion models for medical imaging, integrating heterogeneous datasets to learn representations predictive of phenotypic and genotypic factors. Skilled in 	distributed HPC, Python-based deep learning frameworks (PyTorch/TensorFlow), and reproducible AI pipelines for research in high-dimensional biomedical data.
 
 affiliations:
   - name: University of Palermo, Palermo, Italy
@@ -68,6 +66,7 @@ experience:
   - role: Senior AI Research Scientist
     org: Fondazione RiMed, 
     start: 2024-11-01
+    end: 2025-12-31
     summary: |
       - Developed multi-modal vision systems for anomaly detection in complex structures using volumetric imaging
       - Implemented deep generative architectures (GANs, CNNs, Diffusion Networks) for precision recognition tasks

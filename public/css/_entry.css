@@ -1533,9 +1533,6 @@
   .max-w-\[65ch\] {
     max-width: 65ch;
   }
-  .max-w-\[500px\] {
-    max-width: 500px;
-  }
   .max-w-md {
     max-width: var(--container-md);
   }
@@ -3650,11 +3647,6 @@
   .md\:col-span-8 {
     @media (width >= 48rem) {
       grid-column: span 8 / span 8;
-    }
-  }
-  .md\:grid-cols-1 {
-    @media (width >= 48rem) {
-      grid-template-columns: repeat(1, minmax(0, 1fr));
     }
   }
   .md\:grid-cols-2 {
