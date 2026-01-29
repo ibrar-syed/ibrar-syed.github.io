@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Syed Ibrar Hussain
+  display: Syed Ibrar Hussain, PhD
   given: Syed Ibrar 
   family: Hussain
   alternate: ''  # Example: 王伟
@@ -28,7 +28,7 @@ links:
     url: syed.ibraras@gmail.com
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/ibrar_khwarizmi
   - icon: brands/github
     url: https://github.com/ibrar-syed
   - icon: brands/linkedin
@@ -39,13 +39,13 @@ links:
     url: https://orcid.org/0000-0002-9391-3858
 
 interests:
-  - Deep/MAchine Learning
+  - Deep/Machine Learning
   - Computer Vision
   - Medical Imaging
   - Adaptive Learning Systems
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD in Mathematics and Computer Science
     institution: University of Palermo, Palermo, Italy
     start: 2021-01-11
     end: 2025-02-27
@@ -67,7 +67,7 @@ education:
 experience:
   - role: Senior AI Research Scientist
     org: Fondazione RiMed, 
-    start: 2024-01-11
+    start: 2024-11-01
     summary: |
       - Developed multi-modal vision systems for anomaly detection in complex structures using volumetric imaging
       - Implemented deep generative architectures (GANs, CNNs, Diffusion Networks) for precision recognition tasks
