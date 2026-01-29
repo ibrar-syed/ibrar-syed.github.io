@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects |</title><link>https://ibrar-syed.github.io/projects/</link><atom:link href="https://ibrar-syed.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Projects</title><link>https://ibrar-syed.github.io/projects/</link></image><item><title>Deep Learning Skin Cancer Detection (Multi-Type, ISIC2018)</title><link>https://ibrar-syed.github.io/projects/pytorch/</link><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/pytorch/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;This project leverages state-of-the-art deep learning techniques to classify multiple types of skin lesions from the ISIC2018 dataset. The model is trained to detect and categorize skin cancer types accurately, with a focus on robustness and real-world applicability.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-class skin lesion classification&lt;/li&gt;
+&lt;li&gt;Data augmentation and preprocessing for improved generalization&lt;/li&gt;
+&lt;li&gt;Model evaluation with precision, recall, and F1-score&lt;/li&gt;
+&lt;li&gt;User-friendly visualization of predictions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="installation--usage"&gt;Installation &amp;amp; Usage&lt;/h2&gt;
+&lt;p&gt;Check the
+for code, installation instructions, and examples.&lt;/p&gt;
+&lt;h2 id="visualization"&gt;Visualization&lt;/h2&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;&lt;img src="https://ibrar-syed.github.io/assets/media/projects/deep_learning_skin_cancer_detection_multi_type_isic2018/featured.png" alt="Project Preview" loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;This preview shows the deep learning model detecting and classifying skin lesions, highlighting the AI-powered approach.&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Mammography Classification by Deep Learning</title><link>https://ibrar-syed.github.io/projects/pandas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/pandas/</guid><description>&lt;p&gt;This project demonstrates a deep learning pipeline for mammography image classification. It includes pre-processing, model training, evaluation, and visualization.&lt;br&gt;
+You can find the full code and instructions on
+.&lt;/p&gt;</description></item><item><title>scikit-learn</title><link>https://ibrar-syed.github.io/projects/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/scikit/</guid><description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description></item></channel></rss>

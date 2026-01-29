@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ibrar-syed.github.io/sitemap.xml
