@@ -1,0 +1,5 @@
+/* Justify abstracts for events/talks */
+.event .abstract,
+.talk .abstract {
+    text-align: justify;
+}

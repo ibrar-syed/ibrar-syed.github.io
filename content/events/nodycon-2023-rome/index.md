@@ -20,7 +20,8 @@ categories:
 summary: "Oral presentation on hydrogen in conductors with copper and silver nanoparticles, analyzing mixed convection and variable viscosity effects."
 
 abstract: |
-**Abstract:**
+  **Abstract:**
+
   This chapter presents an analysis of the influence of mixed convection and variable viscosity under the impact of a transverse magnetic field on a stretching surface. Nanofluid viscidness is supposed to be reliant on temperature. The influence of variable viscidity on the transversal magnetic field and hybrid convection can be seen by using Reynold’s model.
 
   The resulting nonlinear system of partial differential equations is transmuted into a nonlinear system of first-order ordinary differential equations by the Lobatto IIIA approach, simplifying physical flow problems.
@@ -38,7 +39,7 @@ images:
   - "figure1.jpg"
   - "figure2.jpg"
 
-imageCaption:
+imageCaptions:
   - "Graphical illustration of numerical methodology."
   - "Illustration of physical problem in cartesian coordinates."
 
