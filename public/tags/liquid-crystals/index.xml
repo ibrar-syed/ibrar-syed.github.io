@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liquid Crystals |</title><link>https://ibrar-syed.github.io/tags/liquid-crystals/</link><atom:link href="https://ibrar-syed.github.io/tags/liquid-crystals/index.xml" rel="self" type="application/rss+xml"/><description>Liquid Crystals</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Liquid Crystals</title><link>https://ibrar-syed.github.io/tags/liquid-crystals/</link></image><item><title>Numerical computing approach for solving Hunter-Saxton equation arising in liquid crystal model through sinc collocation method</title><link>https://ibrar-syed.github.io/publications/15/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/15/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liquid Crystals | </title>
+    <link>http://localhost:1313/tags/liquid-crystals/</link>
+      <atom:link href="http://localhost:1313/tags/liquid-crystals/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liquid Crystals</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Liquid Crystals</title>
+      <link>http://localhost:1313/tags/liquid-crystals/</link>
+    </image>
+    
+    <item>
+      <title>Numerical computing approach for solving Hunter-Saxton equation arising in liquid crystal model through sinc collocation method</title>
+      <link>http://localhost:1313/publications/15/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

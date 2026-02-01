@@ -47,6 +47,7 @@ sections:
         I am always open to collaborations and interdisciplinary projects at the intersection of AI, medical imaging, computational modeling, and applied physics. Let’s connect to explore innovative solutions! 😃
     design:
       columns: '1'
+      css_class: 'text-justify'
 
   - block: collection
     id: papers

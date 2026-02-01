@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neuroscience |</title><link>https://ibrar-syed.github.io/tags/neuroscience/</link><atom:link href="https://ibrar-syed.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml"/><description>Neuroscience</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Neuroscience</title><link>https://ibrar-syed.github.io/tags/neuroscience/</link></image><item><title>Functional vs Structural Cortical Deficit Pattern Biomarkers for Major Depressive Disorder</title><link>https://ibrar-syed.github.io/publications/6/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/6/</guid><description/></item><item><title>βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia</title><link>https://ibrar-syed.github.io/publications/5/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/5/</guid><description/></item><item><title>Exploring the Granularity of the Illnesses-Related Changes in Regional Homogeneity in Major Depressive Disorder using the UKBB Data</title><link>https://ibrar-syed.github.io/publications/4/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/4/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience | </title>
+    <link>http://localhost:1313/tags/neuroscience/</link>
+      <atom:link href="http://localhost:1313/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neuroscience</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Neuroscience</title>
+      <link>http://localhost:1313/tags/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>Functional vs Structural Cortical Deficit Pattern Biomarkers for Major Depressive Disorder</title>
+      <link>http://localhost:1313/publications/6/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia</title>
+      <link>http://localhost:1313/publications/5/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Granularity of the Illnesses-Related Changes in Regional Homogeneity in Major Depressive Disorder using the UKBB Data</title>
+      <link>http://localhost:1313/publications/4/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

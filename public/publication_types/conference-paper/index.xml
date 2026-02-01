@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conference-Paper |</title><link>https://ibrar-syed.github.io/publication_types/conference-paper/</link><atom:link href="https://ibrar-syed.github.io/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml"/><description>Conference-Paper</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Conference-Paper</title><link>https://ibrar-syed.github.io/publication_types/conference-paper/</link></image><item><title>Prostate MRI Segmentation: A Comparative Analysis of U-Net and E-Net Deep Learning Models</title><link>https://ibrar-syed.github.io/publications/2/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/2/</guid><description/></item><item><title>Exploring the Granularity of the Illnesses-Related Changes in Regional Homogeneity in Major Depressive Disorder using the UKBB Data</title><link>https://ibrar-syed.github.io/publications/4/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/4/</guid><description/></item><item><title>The Remarkable Role of Hydrogen in Conductors with Copper and Silver Nanoparticles by Mixed Convection Using Viscosity Reynold’s Model</title><link>https://ibrar-syed.github.io/publications/13/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/13/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference-Paper | </title>
+    <link>http://localhost:1313/publication_types/conference-paper/</link>
+      <atom:link href="http://localhost:1313/publication_types/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference-Paper</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Conference-Paper</title>
+      <link>http://localhost:1313/publication_types/conference-paper/</link>
+    </image>
+    
+    <item>
+      <title>Prostate MRI Segmentation: A Comparative Analysis of U-Net and E-Net Deep Learning Models</title>
+      <link>http://localhost:1313/publications/2/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Granularity of the Illnesses-Related Changes in Regional Homogeneity in Major Depressive Disorder using the UKBB Data</title>
+      <link>http://localhost:1313/publications/4/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Remarkable Role of Hydrogen in Conductors with Copper and Silver Nanoparticles by Mixed Convection Using Viscosity Reynold’s Model</title>
+      <link>http://localhost:1313/publications/13/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

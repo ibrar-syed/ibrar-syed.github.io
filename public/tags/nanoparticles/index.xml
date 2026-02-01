@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nanoparticles |</title><link>https://ibrar-syed.github.io/tags/nanoparticles/</link><atom:link href="https://ibrar-syed.github.io/tags/nanoparticles/index.xml" rel="self" type="application/rss+xml"/><description>Nanoparticles</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Nanoparticles</title><link>https://ibrar-syed.github.io/tags/nanoparticles/</link></image><item><title>The Remarkable Role of Hydrogen in Conductors with Copper and Silver Nanoparticles by Mixed Convection Using Viscosity Reynold’s Model</title><link>https://ibrar-syed.github.io/publications/13/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/13/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nanoparticles | </title>
+    <link>http://localhost:1313/tags/nanoparticles/</link>
+      <atom:link href="http://localhost:1313/tags/nanoparticles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nanoparticles</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Nanoparticles</title>
+      <link>http://localhost:1313/tags/nanoparticles/</link>
+    </image>
+    
+    <item>
+      <title>The Remarkable Role of Hydrogen in Conductors with Copper and Silver Nanoparticles by Mixed Convection Using Viscosity Reynold’s Model</title>
+      <link>http://localhost:1313/publications/13/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

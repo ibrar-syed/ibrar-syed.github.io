@@ -15,8 +15,9 @@ status:
   icon: "☕️"
 role: Senior AI Research Scientist
 bio: |
-  I am a postdoctoral researcher specializing in multimodal and generative deep learning for biomedical imaging and genetics. Experienced in developing CNNs, GANs, and       	diffusion models for medical imaging, integrating heterogeneous datasets to learn representations predictive of phenotypic and genotypic factors. Skilled in 	distributed HPC, Python-based deep learning frameworks (PyTorch/TensorFlow), and reproducible AI pipelines for research in high-dimensional biomedical data.
-
+  <div style="text-align: justify;">
+  I am a postdoctoral researcher specializing in multimodal and generative deep learning for biomedical imaging and genetics. Experienced in developing CNNs, GANs, and diffusion models for medical imaging, integrating heterogeneous datasets to learn representations predictive of phenotypic and genotypic factors. Skilled in distributed HPC, Python-based deep learning frameworks (PyTorch/TensorFlow), and reproducible AI pipelines for research in high-dimensional biomedical data.
+  </div>
 affiliations:
   - name: University of Palermo, Palermo, Italy
     url: https://unipa.it/
@@ -61,7 +62,6 @@ education:
     institution: University of Gujrat, Pakistan
     start: 2013-09-01
     end: 2017-10-30
-
 experience:
   - role: Senior AI Research Scientist
     org: Fondazione RiMed, 
@@ -71,7 +71,7 @@ experience:
       - Developed multi-modal vision systems for anomaly detection in complex structures using volumetric imaging
       - Implemented deep generative architectures (GANs, CNNs, Diffusion Networks) for precision recognition tasks
       - Designed noise-robust preprocessing pipelines for MRI/PET, reducing artifacts.
-      - Created multi-task frameworks improving detection accuracy for overlapping morphological features
+      - Created multi-task frameworks improving detection accuracy for overlapping morphological features.
       - Exploring explainable AI (XAI) methods to improve model transparency and critical decision systems.
       - Collaborating with domain specialists to operationalize vision solutions in regulated environments
       - Engaging in research and publications to advance AI applications in medical imaging.
@@ -84,14 +84,15 @@ experience:
     start: 2024-01-01
     end: 2024-10-31
     summary: |
-      - Developed volumetric image preprocessing pipelines with artifact reduction, spatial normalization, and noise suppression
-      - Implemented signal enhancement techniques (FFT, adaptive filtering) for feature refinement in temporal-spatial data streams
-      - Designed ensemble-based prediction systems using Random Forests for complex pattern recognition tasks
-      - Architected Linux-based data processing workflows for large-scale dataset management (10TB+)
-      - Configured GPU-accelerated HPC environments for distributed deep learning (TensorFlow/PyTorch)
-      - Created multimodal fusion frameworks integrating imaging, signal, and contextual metadata
-      - Collaborated with cross-functional teams on computer vision and research is published in peer-reviewed journals.
-
+      <ul>
+      <li>Developed volumetric image preprocessing pipelines with artifact reduction, spatial normalization, and noise suppression
+      <li>Implemented signal enhancement techniques (FFT, adaptive filtering) for feature refinement in temporal-spatial data streams
+      <li>Designed ensemble-based prediction systems using Random Forests for complex pattern recognition tasks
+      <li>Architected Linux-based data processing workflows for large-scale dataset management (10TB+)
+      <li>Configured GPU-accelerated HPC environments for distributed deep learning (TensorFlow/PyTorch)
+      <li>Created multimodal fusion frameworks integrating imaging, signal, and contextual metadata
+      <li>Collaborated with cross-functional teams on computer vision and research is published in peer-reviewed journals.
+      <ul>
 skills:
   - name: Technical Skills
     items:

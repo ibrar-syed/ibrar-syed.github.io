@@ -1,28 +1,26 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
-date: 2025-09-24
-type: docs
-
-tags:
-  - Hugo Blox
-  - Course
-
-content_meta:
-  content_type: 'Course'
-  difficulty: 'Beginner'
-  prerequisites: ['Markdown']
-  trending: false
+title: "Research Portfolio Overview"
+date: 2026-02-01
+lastmod: 2026-02-01
+summary: "Summary of ongoing and completed research projects in AI, medical imaging, and multi-modal neuropsychiatry."
+draft: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+## Welcome to My Research Portfolio
 
-<!--more-->
+This page highlights a curated selection of my research projects spanning **artificial intelligence, medical imaging, computational psychiatry, and multi-modal omics integration**. 
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+You will find work in the following domains:
 
-## Next
+- **Medical Imaging & AI:** 3D GAN-based segmentation pipelines for prostate MRI and multi-modal volumetric analysis.
+- **Neuropsychiatric Biomarkers:** Multi-modal studies linking **transcriptomics, functional MRI, and iPSC-derived neuron models** to disorders such as Major Depressive Disorder (MDD) and schizophrenia.
+- **Computational Genomics & Multi-Omics:** Integration of RNA-seq, GWAS, and functional brain imaging data to derive precision biomarkers for psychiatric disorders.
+- **High-Performance Computing & Machine Learning:** Distributed deep learning pipelines for large-scale biomedical datasets, enabling reproducible research.
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+### Access Projects
+
+You can explore all projects here: [Projects Overview](/projects/)
+
+---
+
+This page serves as a **neutral, professional summary** of my ongoing research activities, without any conflicts of interest or promotional content.

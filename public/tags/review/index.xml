@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Review |</title><link>https://ibrar-syed.github.io/tags/review/</link><atom:link href="https://ibrar-syed.github.io/tags/review/index.xml" rel="self" type="application/rss+xml"/><description>Review</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Review</title><link>https://ibrar-syed.github.io/tags/review/</link></image><item><title>An extensive investigation into the use of machine learning tools and deep neural networks for the recognition of skin cancer: challenges, future directions, and a comprehensive review</title><link>https://ibrar-syed.github.io/publications/8/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/8/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review | </title>
+    <link>http://localhost:1313/tags/review/</link>
+      <atom:link href="http://localhost:1313/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Review</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Review</title>
+      <link>http://localhost:1313/tags/review/</link>
+    </image>
+    
+    <item>
+      <title>An extensive investigation into the use of machine learning tools and deep neural networks for the recognition of skin cancer: challenges, future directions, and a comprehensive review</title>
+      <link>http://localhost:1313/publications/8/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

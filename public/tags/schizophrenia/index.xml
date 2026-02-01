@@ -1,1 +1,181 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Schizophrenia |</title><link>https://ibrar-syed.github.io/tags/schizophrenia/</link><atom:link href="https://ibrar-syed.github.io/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml"/><description>Schizophrenia</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Schizophrenia</title><link>https://ibrar-syed.github.io/tags/schizophrenia/</link></image><item><title>βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia</title><link>https://ibrar-syed.github.io/publications/5/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/5/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schizophrenia | </title>
+    <link>http://localhost:1313/tags/schizophrenia/</link>
+      <atom:link href="http://localhost:1313/tags/schizophrenia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schizophrenia</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Schizophrenia</title>
+      <link>http://localhost:1313/tags/schizophrenia/</link>
+    </image>
+    
+    <item>
+      <title>βIV Spectrin &amp; AKT/GSK3 Dysregulation as Multimodal Biomarkers in Schizophrenia</title>
+      <link>http://localhost:1313/projects/biv_spectrin/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/biv_spectrin/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Schizophrenia (SCZ) is a severe neuropsychiatric disorder characterized by complex molecular, cellular, and functional brain abnormalities. Growing evidence indicates that &lt;strong&gt;functional and molecular dysregulation precede overt structural brain changes&lt;/strong&gt;, motivating the development of biologically grounded, multimodal biomarkers.&lt;/p&gt;
+&lt;p&gt;This project integrates &lt;strong&gt;transcriptomics (RNA-seq), imaging genomics, and iPSC-derived neuronal models&lt;/strong&gt; to characterize &lt;strong&gt;βIV spectrin (SPTBN4)&lt;/strong&gt; and &lt;strong&gt;AKT/GSK3 signaling pathway dysregulation&lt;/strong&gt; as convergent biomarkers of schizophrenia. By linking gene expression changes to cellular phenotypes and systems-level imaging features, the study provides a mechanistic and reproducible biomarker framework relevant for precision psychiatry.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;strong&gt;Original peer-reviewed article:&lt;/strong&gt;&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-scientific-insights&#34;&gt;🔑 Key Scientific Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;βIV spectrin reduction is a reproducible molecular signature of schizophrenia&lt;/strong&gt;, observed in postmortem dorsolateral prefrontal cortex tissue and cellular models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AKT/GSK3 signaling directly regulates βIV spectrin stability&lt;/strong&gt;, linking intracellular kinase dysregulation to neuronal cytoskeletal integrity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transcriptomic co-expression analyses (PsychENCODE RNA-seq)&lt;/strong&gt; reveal coordinated dysregulation of &lt;em&gt;SPTBN4&lt;/em&gt; and AKT/GSK3 pathway genes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPSC-derived neurons from high-genetic-risk individuals recapitulate disease-associated molecular phenotypes&lt;/strong&gt;, supporting causal relevance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning models integrating transcriptomic and imaging features achieve high classification accuracy (&amp;gt;95%)&lt;/strong&gt;, highlighting translational potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-omics convergence enhances biological interpretability&lt;/strong&gt;, outperforming single-modality biomarkers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-transcriptomics--molecular-integration&#34;&gt;🧬 Transcriptomics &amp;amp; Molecular Integration&lt;/h2&gt;
+&lt;p&gt;Transcriptomics forms the &lt;strong&gt;biological foundation&lt;/strong&gt; of this project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RNA-seq profiling of &lt;em&gt;SPTBN4&lt;/em&gt; (βIV spectrin) and AKT/GSK3 pathway genes&lt;/li&gt;
+&lt;li&gt;Differential gene expression analysis in schizophrenia-relevant cortical regions&lt;/li&gt;
+&lt;li&gt;Gene co-expression network analysis linking cytoskeletal regulation with intracellular signaling&lt;/li&gt;
+&lt;li&gt;Pathway enrichment (GO / KEGG) implicating synaptic function, neuronal stability, and signal transduction&lt;/li&gt;
+&lt;li&gt;Integration of transcriptomic gradients with imaging and cellular phenotypes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-functional-cellular--imaging-biomarkers&#34;&gt;🔬 Functional, Cellular &amp;amp; Imaging Biomarkers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;βIV Spectrin (SPTBN4):&lt;/strong&gt; Neuronal cytoskeletal protein critical for axonal stability and signal compartmentalization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AKT/GSK3 Signaling Axis:&lt;/strong&gt; Central intracellular pathway implicated in synaptic plasticity and psychiatric disorders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPSC-Derived Neurons:&lt;/strong&gt; Disease-relevant cellular models enabling mechanistic validation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imaging Genomics:&lt;/strong&gt; Links molecular dysregulation to systems-level brain phenotypes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Models:&lt;/strong&gt; Random Forest–based classifiers for multimodal biomarker prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-multimodal-workflow&#34;&gt;🔁 Multimodal Workflow&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;βIV Spectrin &amp;amp; AKT/GSK3 Multimodal Workflow&#34; 
+               srcset=&#34;http://localhost:1313/projects/biv_spectrin/research_workflow_hu_69440d566f2e9ad1.webp 320w, http://localhost:1313/projects/biv_spectrin/research_workflow_hu_88366abec9b152f6.webp 480w, http://localhost:1313/projects/biv_spectrin/research_workflow_hu_30fe2a357daec063.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/biv_spectrin/research_workflow_hu_69440d566f2e9ad1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pipeline overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Postmortem brain RNA-seq and PsychENCODE transcriptomic analysis&lt;/li&gt;
+&lt;li&gt;Identification of βIV spectrin and AKT/GSK3 pathway dysregulation&lt;/li&gt;
+&lt;li&gt;iPSC-derived neuronal modeling and functional validation&lt;/li&gt;
+&lt;li&gt;Imaging-genomics feature extraction and integration&lt;/li&gt;
+&lt;li&gt;Machine learning–based biomarker classification&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-systems-level-visualization&#34;&gt;📊 Systems-Level Visualization&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Schizophrenia βIV Spectrin Multi-Omics Landscape&#34; 
+               srcset=&#34;http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_51c0a976d632bfb.webp 320w, http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_7c5e7a9cb0998720.webp 480w, http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_903c4ce911e586e0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_51c0a976d632bfb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-clinical-relevance--translational-impact&#34;&gt;🧠 Clinical Relevance &amp;amp; Translational Impact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports biologically interpretable biomarkers beyond symptom-based diagnosis&lt;/li&gt;
+&lt;li&gt;Identifies cytoskeletal–signaling mechanisms as potential therapeutic targets&lt;/li&gt;
+&lt;li&gt;Enables risk stratification using transcriptomics-informed features&lt;/li&gt;
+&lt;li&gt;Provides a scalable framework for AI-driven precision psychiatry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-directions&#34;&gt;🔮 Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expansion to single-cell and spatial transcriptomics&lt;/li&gt;
+&lt;li&gt;Longitudinal imaging-genomics integration&lt;/li&gt;
+&lt;li&gt;Cross-disorder analyses (e.g., bipolar disorder, MDD)&lt;/li&gt;
+&lt;li&gt;Drug-response modeling targeting AKT/GSK3 signaling&lt;/li&gt;
+&lt;li&gt;Translation toward clinically actionable biomarker panels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-authorship--credits&#34;&gt;👥 Authorship &amp;amp; Credits&lt;/h2&gt;
+&lt;p&gt;This project is based on a peer-reviewed publication in &lt;em&gt;Molecular Psychiatry&lt;/em&gt; and is presented here as a &lt;strong&gt;computationally enhanced, transcriptomics-focused research extension&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Author Contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fernanda Laezza, PhD&lt;/strong&gt;&lt;br&gt;
+Professor of Pharmacology &amp;amp; Toxicology, University of Texas Medical Branch&lt;br&gt;
+Principal investigator and senior author; led experimental design, cellular modeling, and pathway analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Syed Ibrar Hussain, PhD&lt;/strong&gt;&lt;br&gt;
+Department of Mathematics, University of Houston&lt;br&gt;
+&lt;em&gt;Co-author of the original publication&lt;/em&gt;; contributed to transcriptomic integration, multimodal modeling, and computational interpretation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Additional Co-authors&lt;/strong&gt;&lt;br&gt;
+Contributors to experimental neuroscience, transcriptomics, imaging analysis, and statistical modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publication-reference&#34;&gt;📄 Publication Reference&lt;/h2&gt;
+&lt;p&gt;Laezza et al.&lt;br&gt;
+&lt;strong&gt;βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Molecular Psychiatry&lt;/em&gt; (2025)&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;🤝 &lt;strong&gt;Open to collaborations&lt;/strong&gt; in transcriptomics, psychiatric genomics, iPSC modeling, imaging genetics, and AI-driven biomarker discovery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia</title>
+      <link>http://localhost:1313/publications/5/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

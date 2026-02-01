@@ -1,5 +1,66 @@
-/* Justify abstracts for events/talks */
-.event .abstract,
-.talk .abstract {
+/* ============================
+   SAFE TEXT WIDTH CONTROL
+   ============================ */
+
+/* Only widen readable text blocks (not cards, grids, navbar) */
+.prose {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Slightly wider on very large screens */
+@media (min-width: 1400px) {
+  .prose {
+    max-width: 1100px;
+  }
+}
+
+/* ============================
+   TEXT JUSTIFICATION
+   ============================ */
+
+.prose p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.75;
+}
+
+/* Lists */
+.prose li {
+  text-align: justify;
+}
+
+/* Justify author biography text */
+.resume-biography-3 .biography-content p {
     text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.75;
+    max-width: 980px; /* Optional: keeps text readable */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Justify all block markdown text including bio and research */
+.blox-block.markdown .markdown-body,
+.resume-biography-3 .blox-block-content,
+.resume-biography-3 .biography-text p {
+    text-align: justify !important;
+    text-justify: inter-word;
+    line-height: 1.75;
+}
+
+/* Optional: limit line width for readability */
+.blox-block.markdown .markdown-body,
+.resume-biography-3 .blox-block-content {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blox-block.markdown .markdown-body,
+.resume-biography-3 .blox-block-content {
+    max-width: 1100px; /* wider than 900px */
+    margin-left: auto;
+    margin-right: auto;
 }

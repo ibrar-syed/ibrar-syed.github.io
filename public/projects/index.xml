@@ -1,24 +1,555 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects |</title><link>https://ibrar-syed.github.io/projects/</link><atom:link href="https://ibrar-syed.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Projects</title><link>https://ibrar-syed.github.io/projects/</link></image><item><title>Deep Learning Skin Cancer Detection (Multi-Type, ISIC2018)</title><link>https://ibrar-syed.github.io/projects/pytorch/</link><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/pytorch/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Skin Cancer Detection (Multi-Type, ISIC2018)</title>
+      <link>http://localhost:1313/projects/pytorch/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project leverages state-of-the-art deep learning techniques to classify multiple types of skin lesions from the ISIC2018 dataset. The model is trained to detect and categorize skin cancer types accurately, with a focus on robustness and real-world applicability.&lt;/p&gt;
-&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Multi-class skin lesion classification&lt;/li&gt;
 &lt;li&gt;Data augmentation and preprocessing for improved generalization&lt;/li&gt;
 &lt;li&gt;Model evaluation with precision, recall, and F1-score&lt;/li&gt;
 &lt;li&gt;User-friendly visualization of predictions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="installation--usage"&gt;Installation &amp;amp; Usage&lt;/h2&gt;
-&lt;p&gt;Check the
-for code, installation instructions, and examples.&lt;/p&gt;
-&lt;h2 id="visualization"&gt;Visualization&lt;/h2&gt;
+&lt;h2 id=&#34;installation--usage&#34;&gt;Installation &amp;amp; Usage&lt;/h2&gt;
+&lt;p&gt;Check the 
+ for code, installation instructions, and examples.&lt;/p&gt;
+&lt;h2 id=&#34;visualization&#34;&gt;Visualization&lt;/h2&gt;
 &lt;p&gt;
-&lt;figure &gt;
-&lt;div class="flex justify-center "&gt;
-&lt;div class="w-full" &gt;&lt;img src="https://ibrar-syed.github.io/assets/media/projects/deep_learning_skin_cancer_detection_multi_type_isic2018/featured.png" alt="Project Preview" loading="lazy" data-zoomable /&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/assets/media/projects/deep_learning_skin_cancer_detection_multi_type_isic2018/featured.png&#34; alt=&#34;Project Preview&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
-&lt;p&gt;This preview shows the deep learning model detecting and classifying skin lesions, highlighting the AI-powered approach.&lt;/p&gt;
-&lt;/blockquote&gt;</description></item><item><title>Mammography Classification by Deep Learning</title><link>https://ibrar-syed.github.io/projects/pandas/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/pandas/</guid><description>&lt;p&gt;This project demonstrates a deep learning pipeline for mammography image classification. It includes pre-processing, model training, evaluation, and visualization.&lt;br&gt;
-You can find the full code and instructions on
-.&lt;/p&gt;</description></item><item><title>scikit-learn</title><link>https://ibrar-syed.github.io/projects/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/scikit/</guid><description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description></item></channel></rss>
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;This preview shows the deep learning model detecting and classifying skin lesions, highlighting the AI-powered approach.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>βIV Spectrin &amp; AKT/GSK3 Dysregulation as Multimodal Biomarkers in Schizophrenia</title>
+      <link>http://localhost:1313/projects/biv_spectrin/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/biv_spectrin/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Schizophrenia (SCZ) is a severe neuropsychiatric disorder characterized by complex molecular, cellular, and functional brain abnormalities. Growing evidence indicates that &lt;strong&gt;functional and molecular dysregulation precede overt structural brain changes&lt;/strong&gt;, motivating the development of biologically grounded, multimodal biomarkers.&lt;/p&gt;
+&lt;p&gt;This project integrates &lt;strong&gt;transcriptomics (RNA-seq), imaging genomics, and iPSC-derived neuronal models&lt;/strong&gt; to characterize &lt;strong&gt;βIV spectrin (SPTBN4)&lt;/strong&gt; and &lt;strong&gt;AKT/GSK3 signaling pathway dysregulation&lt;/strong&gt; as convergent biomarkers of schizophrenia. By linking gene expression changes to cellular phenotypes and systems-level imaging features, the study provides a mechanistic and reproducible biomarker framework relevant for precision psychiatry.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;strong&gt;Original peer-reviewed article:&lt;/strong&gt;&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-scientific-insights&#34;&gt;🔑 Key Scientific Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;βIV spectrin reduction is a reproducible molecular signature of schizophrenia&lt;/strong&gt;, observed in postmortem dorsolateral prefrontal cortex tissue and cellular models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AKT/GSK3 signaling directly regulates βIV spectrin stability&lt;/strong&gt;, linking intracellular kinase dysregulation to neuronal cytoskeletal integrity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transcriptomic co-expression analyses (PsychENCODE RNA-seq)&lt;/strong&gt; reveal coordinated dysregulation of &lt;em&gt;SPTBN4&lt;/em&gt; and AKT/GSK3 pathway genes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPSC-derived neurons from high-genetic-risk individuals recapitulate disease-associated molecular phenotypes&lt;/strong&gt;, supporting causal relevance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning models integrating transcriptomic and imaging features achieve high classification accuracy (&amp;gt;95%)&lt;/strong&gt;, highlighting translational potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-omics convergence enhances biological interpretability&lt;/strong&gt;, outperforming single-modality biomarkers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-transcriptomics--molecular-integration&#34;&gt;🧬 Transcriptomics &amp;amp; Molecular Integration&lt;/h2&gt;
+&lt;p&gt;Transcriptomics forms the &lt;strong&gt;biological foundation&lt;/strong&gt; of this project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RNA-seq profiling of &lt;em&gt;SPTBN4&lt;/em&gt; (βIV spectrin) and AKT/GSK3 pathway genes&lt;/li&gt;
+&lt;li&gt;Differential gene expression analysis in schizophrenia-relevant cortical regions&lt;/li&gt;
+&lt;li&gt;Gene co-expression network analysis linking cytoskeletal regulation with intracellular signaling&lt;/li&gt;
+&lt;li&gt;Pathway enrichment (GO / KEGG) implicating synaptic function, neuronal stability, and signal transduction&lt;/li&gt;
+&lt;li&gt;Integration of transcriptomic gradients with imaging and cellular phenotypes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-functional-cellular--imaging-biomarkers&#34;&gt;🔬 Functional, Cellular &amp;amp; Imaging Biomarkers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;βIV Spectrin (SPTBN4):&lt;/strong&gt; Neuronal cytoskeletal protein critical for axonal stability and signal compartmentalization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AKT/GSK3 Signaling Axis:&lt;/strong&gt; Central intracellular pathway implicated in synaptic plasticity and psychiatric disorders&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPSC-Derived Neurons:&lt;/strong&gt; Disease-relevant cellular models enabling mechanistic validation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imaging Genomics:&lt;/strong&gt; Links molecular dysregulation to systems-level brain phenotypes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Models:&lt;/strong&gt; Random Forest–based classifiers for multimodal biomarker prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-multimodal-workflow&#34;&gt;🔁 Multimodal Workflow&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;βIV Spectrin &amp;amp; AKT/GSK3 Multimodal Workflow&#34; 
+               srcset=&#34;http://localhost:1313/projects/biv_spectrin/research_workflow_hu_69440d566f2e9ad1.webp 320w, http://localhost:1313/projects/biv_spectrin/research_workflow_hu_88366abec9b152f6.webp 480w, http://localhost:1313/projects/biv_spectrin/research_workflow_hu_30fe2a357daec063.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/biv_spectrin/research_workflow_hu_69440d566f2e9ad1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pipeline overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Postmortem brain RNA-seq and PsychENCODE transcriptomic analysis&lt;/li&gt;
+&lt;li&gt;Identification of βIV spectrin and AKT/GSK3 pathway dysregulation&lt;/li&gt;
+&lt;li&gt;iPSC-derived neuronal modeling and functional validation&lt;/li&gt;
+&lt;li&gt;Imaging-genomics feature extraction and integration&lt;/li&gt;
+&lt;li&gt;Machine learning–based biomarker classification&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-systems-level-visualization&#34;&gt;📊 Systems-Level Visualization&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Schizophrenia βIV Spectrin Multi-Omics Landscape&#34; 
+               srcset=&#34;http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_51c0a976d632bfb.webp 320w, http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_7c5e7a9cb0998720.webp 480w, http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_903c4ce911e586e0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/biv_spectrin/workflow_scz_hu_51c0a976d632bfb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-clinical-relevance--translational-impact&#34;&gt;🧠 Clinical Relevance &amp;amp; Translational Impact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports biologically interpretable biomarkers beyond symptom-based diagnosis&lt;/li&gt;
+&lt;li&gt;Identifies cytoskeletal–signaling mechanisms as potential therapeutic targets&lt;/li&gt;
+&lt;li&gt;Enables risk stratification using transcriptomics-informed features&lt;/li&gt;
+&lt;li&gt;Provides a scalable framework for AI-driven precision psychiatry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-directions&#34;&gt;🔮 Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expansion to single-cell and spatial transcriptomics&lt;/li&gt;
+&lt;li&gt;Longitudinal imaging-genomics integration&lt;/li&gt;
+&lt;li&gt;Cross-disorder analyses (e.g., bipolar disorder, MDD)&lt;/li&gt;
+&lt;li&gt;Drug-response modeling targeting AKT/GSK3 signaling&lt;/li&gt;
+&lt;li&gt;Translation toward clinically actionable biomarker panels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-authorship--credits&#34;&gt;👥 Authorship &amp;amp; Credits&lt;/h2&gt;
+&lt;p&gt;This project is based on a peer-reviewed publication in &lt;em&gt;Molecular Psychiatry&lt;/em&gt; and is presented here as a &lt;strong&gt;computationally enhanced, transcriptomics-focused research extension&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Author Contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fernanda Laezza, PhD&lt;/strong&gt;&lt;br&gt;
+Professor of Pharmacology &amp;amp; Toxicology, University of Texas Medical Branch&lt;br&gt;
+Principal investigator and senior author; led experimental design, cellular modeling, and pathway analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Syed Ibrar Hussain, PhD&lt;/strong&gt;&lt;br&gt;
+Department of Mathematics, University of Houston&lt;br&gt;
+&lt;em&gt;Co-author of the original publication&lt;/em&gt;; contributed to transcriptomic integration, multimodal modeling, and computational interpretation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Additional Co-authors&lt;/strong&gt;&lt;br&gt;
+Contributors to experimental neuroscience, transcriptomics, imaging analysis, and statistical modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publication-reference&#34;&gt;📄 Publication Reference&lt;/h2&gt;
+&lt;p&gt;Laezza et al.&lt;br&gt;
+&lt;strong&gt;βIV spectrin abundancy, cellular distribution and sensitivity to AKT/GSK3 regulation in schizophrenia&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Molecular Psychiatry&lt;/em&gt; (2025)&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;🤝 &lt;strong&gt;Open to collaborations&lt;/strong&gt; in transcriptomics, psychiatric genomics, iPSC modeling, imaging genetics, and AI-driven biomarker discovery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcriptomics-Driven Biomarkers for Major Depressive Disorder (MDD)</title>
+      <link>http://localhost:1313/projects/mdd_transcriptomics_multimodal/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mdd_transcriptomics_multimodal/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Major Depressive Disorder (MDD) is a severe psychiatric condition with complex functional and molecular mechanisms. Traditional structural imaging biomarkers have limited reproducibility and sensitivity — functional biomarkers like &lt;strong&gt;regional homogeneity (ReHo)&lt;/strong&gt; demonstrate much stronger effects in large cohort studies.&lt;/p&gt;
+&lt;p&gt;This project adopts a &lt;strong&gt;transcriptomics-driven multi-modal framework&lt;/strong&gt; to link &lt;strong&gt;RNA-seq–derived gene expression signatures&lt;/strong&gt; to functional neuroimaging patterns in MDD, providing mechanistic insights and high-value biological interpretation for computational psychiatry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Publication Reference:&lt;/strong&gt;&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-scientific-insights&#34;&gt;🔑 Key Scientific Insights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Functional brain alterations outperform structural markers:&lt;/strong&gt;&lt;br&gt;
+ReHo-based functional MRI deficits show &lt;strong&gt;2–3× larger effect sizes&lt;/strong&gt; than cortical thickness reductions, confirming that MDD is primarily a disorder of &lt;strong&gt;functional dysregulation&lt;/strong&gt; rather than structural atrophy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Robust hypoperfusion patterns:&lt;/strong&gt;&lt;br&gt;
+ReHo deficits strongly co-localize with &lt;strong&gt;regionally specific reductions in cerebral blood flow (RCBF)&lt;/strong&gt;, indicating highly reproducible cortical hypoperfusion patterns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Regional Vulnerability Index (RVI):&lt;/strong&gt;&lt;br&gt;
+Functional RVI (ReHo-derived) shows stronger and more consistent effects than any individual brain region and outperforms structural RVI measures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Large-scale cross-dataset validation:&lt;/strong&gt;&lt;br&gt;
+Findings were replicated across &lt;strong&gt;15,501 participants&lt;/strong&gt; from UK Biobank, ENIGMA, Amish Connectome Project, and independent clinical cohorts, confirming robustness and generalizability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Biological interpretation via transcriptomics:&lt;/strong&gt;&lt;br&gt;
+Integration of ReHo/RCBF with &lt;strong&gt;RNA-seq–based gene expression data&lt;/strong&gt; reveals molecular mechanisms underlying functional deficits, highlighting synaptic, inflammatory, and neurovascular pathways.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-transcriptomics--molecular-integration&#34;&gt;🧬 Transcriptomics &amp;amp; Molecular Integration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Brain-region–specific &lt;strong&gt;RNA-seq profiles&lt;/strong&gt; mapped to functional deficits&lt;/li&gt;
+&lt;li&gt;Differential expression of key synaptic, inflammatory, and neurovascular genes&lt;/li&gt;
+&lt;li&gt;Pathway enrichment analyses (GO/KEGG) tied to neurofunctional alterations&lt;/li&gt;
+&lt;li&gt;Integration of transcriptomic gradients with cortical maps for mechanistic insight&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This positioning emphasizes &lt;strong&gt;transcriptomics&lt;/strong&gt; as a central pillar, making the project highly relevant for researchers in &lt;strong&gt;multi-omics, systems biology, and computational psychiatry&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-functional-neuroimaging-biomarkers&#34;&gt;🔬 Functional Neuroimaging Biomarkers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Regional Homogeneity (ReHo):&lt;/strong&gt; voxel-level local synchrony in resting-state fMRI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regional Cerebral Blood Flow (RCBF):&lt;/strong&gt; perfusion measures aligned with ReHo deficits&lt;/li&gt;
+&lt;li&gt;Functional deficits in MDD consistently exceed structural cortical thickness changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-workflow-schematic&#34;&gt;🔁 Workflow Schematic&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Transcriptomics-Driven Multi-Modal Workflow&#34; 
+               srcset=&#34;http://localhost:1313/projects/mdd_transcriptomics_multimodal/workflow_schematic_hu_171dbaeef8945349.webp 320w, http://localhost:1313/projects/mdd_transcriptomics_multimodal/workflow_schematic_hu_32611e1c583867af.webp 480w, http://localhost:1313/projects/mdd_transcriptomics_multimodal/workflow_schematic_hu_bd65dd39bb00c737.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/mdd_transcriptomics_multimodal/workflow_schematic_hu_171dbaeef8945349.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The schematic illustrates the multi-modal workflow:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;RNA-seq preprocessing and transcriptomic feature extraction&lt;/li&gt;
+&lt;li&gt;Functional MRI preprocessing and ReHo/RCBF calculation&lt;/li&gt;
+&lt;li&gt;Linking transcriptomic profiles with functional imaging deficits&lt;/li&gt;
+&lt;li&gt;Integrating multi-modal features for biomarker discovery&lt;/li&gt;
+&lt;li&gt;Mechanistic interpretation and predictive modeling&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This framework provides &lt;strong&gt;biologically interpretable, cross-modal biomarkers&lt;/strong&gt; suitable for diagnostics, stratification, and personalized interventions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-highlights-summary&#34;&gt;📌 Highlights (Summary)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Functional deficits in MDD &amp;gt; Structural cortical reductions&lt;/li&gt;
+&lt;li&gt;ReHo-based RVI shows strong reproducibility across datasets&lt;/li&gt;
+&lt;li&gt;Transcriptomic integration links imaging phenotypes to molecular mechanisms&lt;/li&gt;
+&lt;li&gt;Cross-validated over 15,501 participants&lt;/li&gt;
+&lt;li&gt;Supports &lt;strong&gt;precision psychiatry approaches&lt;/strong&gt; with multi-omics biomarkers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-authorship--credits&#34;&gt;👥 Authorship &amp;amp; Credits&lt;/h2&gt;
+&lt;p&gt;This project is based on a peer-reviewed research article published in &lt;em&gt;JAMA Psychiatry&lt;/em&gt;. The present page emphasizes &lt;strong&gt;transcriptomics-informed modeling&lt;/strong&gt; and computational extensions of the original findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Contributors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Peter Kochunov, PhD&lt;/strong&gt;&lt;br&gt;
+Professor of Psychiatry &amp;amp; Neuroimaging&lt;br&gt;
+Senior author, leading neuroimaging-genomics integration and transcriptomic interpretation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Syed Ibrar Hussain, PhD&lt;/strong&gt;&lt;br&gt;
+Department of Mathematics, University of Houston, Houston, TX, USA
+&lt;em&gt;Co-author of the original publication&lt;/em&gt;&lt;br&gt;
+Contributed to transcriptomics analysis, functional neuroimaging integration, and computational modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Additional Co-authors&lt;/strong&gt;&lt;br&gt;
+Contributed to study design, data acquisition, transcriptomic profiling, neuroimaging analysis, and statistical modeling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-collaboration--contact&#34;&gt;🤝 Collaboration &amp;amp; Contact&lt;/h2&gt;
+&lt;p&gt;Open for collaboration in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transcriptomics and RNA-seq integration&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computational psychiatry and machine learning&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-omics biomarker discovery&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Functional neuroimaging research&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contact via email or LinkedIn to discuss potential collaborations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Prostate MRI Segmentation Using GAN</title>
+      <link>http://localhost:1313/projects/prostate_gan_3d_nifti/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/prostate_gan_3d_nifti/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;
+&lt;p&gt;This project focuses on automatic segmentation of prostate MRI scans using a &lt;strong&gt;Conditional Generative Adversarial Network (cGAN)&lt;/strong&gt;. The pipeline integrates volumetric 3D T2-weighted MRI data with advanced deep learning architectures to produce highly accurate slice-wise segmentations, later reconstructed into 3D volumes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preprocessing &amp;amp; normalization of 3D MRI volumes&lt;/li&gt;
+&lt;li&gt;Slice extraction for efficient training&lt;/li&gt;
+&lt;li&gt;U-Net based generator and PatchGAN discriminator&lt;/li&gt;
+&lt;li&gt;Adversarial training with combined L1 + GAN loss&lt;/li&gt;
+&lt;li&gt;K-Fold cross-validation for robust performance evaluation&lt;/li&gt;
+&lt;li&gt;Post-processing &amp;amp; morphological refinement for smooth and accurate segmentation&lt;/li&gt;
+&lt;li&gt;Performance metrics: Dice, Precision, Recall, Hausdorff distance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Repository:&lt;/strong&gt; Private (Available upon request)&lt;/p&gt;
+&lt;h3 id=&#34;gan-pipeline&#34;&gt;GAN Pipeline&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;3D Prostate GAN Pipeline&#34; 
+               srcset=&#34;http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_e1800836497d3bbc.webp 320w, http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_a17ee997b434f4d3.webp 480w, http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_b9ce7901b11872d6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_e1800836497d3bbc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The illustration above summarizes the workflow from &lt;strong&gt;raw MRI input → preprocessing → GAN-based segmentation → 3D volume reconstruction → post-processing&lt;/strong&gt;. This approach enables automated and reproducible segmentation, facilitating downstream radiomics analysis and clinical decision support.&lt;/p&gt;
+&lt;h3 id=&#34;impact--applications&#34;&gt;Impact &amp;amp; Applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports reproducible biomedical imaging research&lt;/li&gt;
+&lt;li&gt;Enables accurate prostate segmentation for radiomics and AI-driven diagnosis&lt;/li&gt;
+&lt;li&gt;Facilitates quantitative assessment of anatomical structures in 3D MRI&lt;/li&gt;
+&lt;li&gt;Demonstrates integration of generative AI models for clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h3&gt;
+&lt;p&gt;The pipeline includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Data Handling:&lt;/strong&gt; 3D NIfTI MRI volumes are normalized and augmented.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model Architecture:&lt;/strong&gt; 3D U-Net generator with PatchGAN discriminator for adversarial learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training Strategy:&lt;/strong&gt; Combined L1 reconstruction loss + adversarial loss for realistic and accurate segmentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt; Dice similarity, Precision, Recall, and Hausdorff distance metrics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post-Processing:&lt;/strong&gt; Morphological operations refine segmented masks for smooth 3D surfaces.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The repository contains sensitive patient data and is &lt;strong&gt;private&lt;/strong&gt;. Access can be granted upon request for research collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Granularity of Regional Homogeneity Changes in MDD (UKBB)</title>
+      <link>http://localhost:1313/projects/exploring_granularity/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/exploring_granularity/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Major depressive disorder (MDD) is a prevalent psychiatric disorder with complex functional brain alterations. Standard brain atlases often dilute subtle disorder-specific effects in functional MRI analyses. This project introduces a &lt;strong&gt;data-driven, MDD-specific parcellation framework&lt;/strong&gt; using &lt;strong&gt;Kullback-Leibler (KL) distance optimization&lt;/strong&gt; to define cortical regions that maximize signal-to-noise for Regional Homogeneity (ReHo) measures in UK Biobank resting-state fMRI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Original Article:&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Exploring the Granularity of Illness-Related Changes in Regional Homogeneity in Major Depressive Disorder using UKBB Data&lt;/em&gt; — Pacific Symposium on Biocomputing (PSB) 2025 / World Scientific&lt;br&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-highlights&#34;&gt;🔑 Key Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Disorder-specific parcellation:&lt;/strong&gt; KL distance is used to derive MDD-optimized cortical regions that increase contrast between cases and controls.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced RVI (Regional Vulnerability Index):&lt;/strong&gt; Using MDD-specific regions produces larger effect sizes than standard anatomical atlases (e.g., Desikan).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large-scale validation:&lt;/strong&gt; Dataset includes &lt;strong&gt;2,289 MDD cases and 6,104 healthy controls&lt;/strong&gt; from UK Biobank.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methodological innovation:&lt;/strong&gt; Combines functional ReHo mapping with KL distance optimization for precise individual-level biomarkers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Translational potential:&lt;/strong&gt; Provides templates for functional biomarker extraction, stratification, and longitudinal monitoring.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-scientific-background&#34;&gt;🧠 Scientific Background&lt;/h2&gt;
+&lt;p&gt;Functional brain alterations in MDD, particularly measured by ReHo (local BOLD signal synchrony), are &lt;strong&gt;heterogeneous and subtle&lt;/strong&gt;. Standard atlas-based approaches average over large regions, reducing sensitivity. The adaptive KL parcellation framework:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preserves illness-relevant signal variation&lt;/li&gt;
+&lt;li&gt;Maximizes statistical contrast for individual-level predictions&lt;/li&gt;
+&lt;li&gt;Can be generalized to other psychiatric or neurodegenerative disorders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-methodological-pipeline&#34;&gt;🔬 Methodological Pipeline&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Stepwise workflow:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Preprocessing:&lt;/strong&gt; Resting-state fMRI from UK Biobank processed (motion correction, normalization, filtering).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ReHo computation:&lt;/strong&gt; Local synchrony measured voxel-wise.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KL parcellation:&lt;/strong&gt; Derive data-driven cortical regions maximizing illness effect and SNR.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RVI computation:&lt;/strong&gt; Regional Vulnerability Index calculated with adaptive parcels vs standard atlases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Statistical validation:&lt;/strong&gt; Large cohort evaluation demonstrates enhanced sensitivity of MDD-specific parcellations.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;MDD ReHo KL Parcellation Pipeline&#34; 
+               srcset=&#34;http://localhost:1313/projects/exploring_granularity/Workflow_granularity_hu_11d9345ce47504b3.webp 320w, http://localhost:1313/projects/exploring_granularity/Workflow_granularity_hu_9a1ce731ae12a4e8.webp 480w, http://localhost:1313/projects/exploring_granularity/Workflow_granularity_hu_bf628bf6b1020763.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/exploring_granularity/Workflow_granularity_hu_11d9345ce47504b3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conceptual workflow from raw fMRI to optimized MDD-specific ReHo biomarkers.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-multi-modal--translational-integration&#34;&gt;🧬 Multi-Modal &amp;amp; Translational Integration&lt;/h2&gt;
+&lt;p&gt;While primarily focused on functional MRI, this framework can be extended to &lt;strong&gt;genetics, transcriptomics, and multi-omics data&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrate &lt;strong&gt;RNA-seq&lt;/strong&gt; or &lt;strong&gt;GWAS data&lt;/strong&gt; with ReHo-derived regions&lt;/li&gt;
+&lt;li&gt;Link functional vulnerability to molecular signatures&lt;/li&gt;
+&lt;li&gt;Enable mechanistic insights for &lt;strong&gt;precision psychiatry&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Supports &lt;strong&gt;cross-disorder comparisons&lt;/strong&gt; for schizophrenia, bipolar disorder, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;This multi-modal perspective enhances collaboration opportunities in computational psychiatry, functional genomics, and translational neuroscience.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;-impact--applications&#34;&gt;🧠 Impact &amp;amp; Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enables &lt;strong&gt;individualized ReHo biomarker extraction&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Increases &lt;strong&gt;statistical power&lt;/strong&gt; for translational studies&lt;/li&gt;
+&lt;li&gt;Provides &lt;strong&gt;template for adaptive parcellation&lt;/strong&gt; in future studies&lt;/li&gt;
+&lt;li&gt;Facilitates &lt;strong&gt;clinical deployment&lt;/strong&gt; for monitoring treatment response&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-authorship--credits&#34;&gt;👥 Authorship &amp;amp; Credits&lt;/h2&gt;
+&lt;p&gt;This project is based on the PSB 2025 / World Scientific publication:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yewen Huang, PhD&lt;/strong&gt; – Conceptualization, algorithm design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Syed Ibrar Hussain, PhD&lt;/strong&gt; – Computational modeling, statistical analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paul M. Thompson, PhD&lt;/strong&gt; – Neuroimaging genetics expertise&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Peter Kochunov, PhD&lt;/strong&gt; – Translational psychiatry &amp;amp; imaging&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Additional Co-authors:&lt;/strong&gt; Demetrio Labate, Robert Azencott, Bhim Adhikari&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publication-reference&#34;&gt;📄 Publication Reference&lt;/h2&gt;
+&lt;p&gt;DOI: 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-collaboration--future-directions&#34;&gt;🤝 Collaboration &amp;amp; Future Directions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Extend &lt;strong&gt;adaptive parcellation framework&lt;/strong&gt; to multi-omics datasets (e.g., transcriptomics, proteomics)&lt;/li&gt;
+&lt;li&gt;Comparative atlas studies in &lt;strong&gt;schizophrenia, bipolar disorder, or anxiety&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Individual-level &lt;strong&gt;RVI biomarkers for clinical research&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Opportunities for collaborations in &lt;strong&gt;computational psychiatry, precision imaging, and multi-modal biomarker discovery&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mammography Classification by Deep Learning</title>
+      <link>http://localhost:1313/projects/pandas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pandas/</guid>
+      <description>&lt;p&gt;This project demonstrates a deep learning pipeline for mammography image classification. It includes pre-processing, model training, evaluation, and visualization.&lt;br&gt;
+You can find the full code and instructions on 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

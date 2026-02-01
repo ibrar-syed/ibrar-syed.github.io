@@ -1,22 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Medical Imaging |</title><link>https://ibrar-syed.github.io/tags/medical-imaging/</link><atom:link href="https://ibrar-syed.github.io/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml"/><description>Medical Imaging</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Medical Imaging</title><link>https://ibrar-syed.github.io/tags/medical-imaging/</link></image><item><title>Deep Learning Skin Cancer Detection (Multi-Type, ISIC2018)</title><link>https://ibrar-syed.github.io/projects/pytorch/</link><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/projects/pytorch/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Imaging | </title>
+    <link>http://localhost:1313/tags/medical-imaging/</link>
+      <atom:link href="http://localhost:1313/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Imaging</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Medical Imaging</title>
+      <link>http://localhost:1313/tags/medical-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning Skin Cancer Detection (Multi-Type, ISIC2018)</title>
+      <link>http://localhost:1313/projects/pytorch/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project leverages state-of-the-art deep learning techniques to classify multiple types of skin lesions from the ISIC2018 dataset. The model is trained to detect and categorize skin cancer types accurately, with a focus on robustness and real-world applicability.&lt;/p&gt;
-&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Multi-class skin lesion classification&lt;/li&gt;
 &lt;li&gt;Data augmentation and preprocessing for improved generalization&lt;/li&gt;
 &lt;li&gt;Model evaluation with precision, recall, and F1-score&lt;/li&gt;
 &lt;li&gt;User-friendly visualization of predictions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="installation--usage"&gt;Installation &amp;amp; Usage&lt;/h2&gt;
-&lt;p&gt;Check the
-for code, installation instructions, and examples.&lt;/p&gt;
-&lt;h2 id="visualization"&gt;Visualization&lt;/h2&gt;
+&lt;h2 id=&#34;installation--usage&#34;&gt;Installation &amp;amp; Usage&lt;/h2&gt;
+&lt;p&gt;Check the 
+ for code, installation instructions, and examples.&lt;/p&gt;
+&lt;h2 id=&#34;visualization&#34;&gt;Visualization&lt;/h2&gt;
 &lt;p&gt;
-&lt;figure &gt;
-&lt;div class="flex justify-center "&gt;
-&lt;div class="w-full" &gt;&lt;img src="https://ibrar-syed.github.io/assets/media/projects/deep_learning_skin_cancer_detection_multi_type_isic2018/featured.png" alt="Project Preview" loading="lazy" data-zoomable /&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/assets/media/projects/deep_learning_skin_cancer_detection_multi_type_isic2018/featured.png&#34; alt=&#34;Project Preview&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
-&lt;p&gt;This preview shows the deep learning model detecting and classifying skin lesions, highlighting the AI-powered approach.&lt;/p&gt;
-&lt;/blockquote&gt;</description></item><item><title>Poster Presentation: Prostate MRI Segmentation at ICIAP 2025, Rome</title><link>https://ibrar-syed.github.io/events/prostate-mri-poster-iciap-2025/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/events/prostate-mri-poster-iciap-2025/</guid><description/></item><item><title>Prostate MRI Segmentation: A Comparative Analysis of U-Net and E-Net Deep Learning Models</title><link>https://ibrar-syed.github.io/publications/2/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/2/</guid><description/></item><item><title>Invited Seminar: Applications of Advanced Deep Learning for Prostate Segmentation</title><link>https://ibrar-syed.github.io/events/prostate-segmentation-seminar/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/events/prostate-segmentation-seminar/</guid><description/></item><item><title>Optimized Deep Learning for Mammography: Augmentation and Tailored Architectures</title><link>https://ibrar-syed.github.io/publications/3/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/3/</guid><description/></item></channel></rss>
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;This preview shows the deep learning model detecting and classifying skin lesions, highlighting the AI-powered approach.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Poster Presentation: Prostate MRI Segmentation at ICIAP 2025, Rome</title>
+      <link>http://localhost:1313/events/prostate-mri-poster-iciap-2025/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/prostate-mri-poster-iciap-2025/</guid>
+      <description>&lt;h2 id=&#34;project-abstract&#34;&gt;Project Abstract&lt;/h2&gt;
+&lt;div style=&#34;text-align: justify;&#34;&gt;
+Prostate cancer is one of the most frequently diagnosed malignancies in men worldwide, requiring early and accurate diagnosis for effective treatment and improved survival. Multiparametric MRI (mpMRI) provides detailed anatomical imaging, but accurate segmentation of the prostate and cancerous regions is critical for diagnostic precision. Manual segmentation is labor-intensive and prone to variability, motivating the use of deep learning-based automated approaches. Convolutional neural network models, including U-Net and E-Net, have shown excellent performance in capturing complex anatomy and enhancing segmentation accuracy. This study evaluates the effectiveness and clinical applicability of these architectures for automated prostate MRI segmentation, aiming to support precise diagnosis and personalized treatment planning.
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;detailed-workflow-of-research-work&#34;&gt;Detailed Workflow of Research Work&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;http://localhost:1313/events/prostate-mri-poster-iciap-2025/poster_wall.png&#34; alt=&#34;Poster Wallpaper&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Visual illustration of prostate MRI segmentation using deep learning models.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prostate MRI Segmentation: A Comparative Analysis of U-Net and E-Net Deep Learning Models</title>
+      <link>http://localhost:1313/publications/2/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Seminar: Applications of Advanced Deep Learning for Prostate Segmentation</title>
+      <link>http://localhost:1313/events/prostate-segmentation-seminar/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/prostate-segmentation-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Prostate MRI Segmentation Using GAN</title>
+      <link>http://localhost:1313/projects/prostate_gan_3d_nifti/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/prostate_gan_3d_nifti/</guid>
+      <description>&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;
+&lt;p&gt;This project focuses on automatic segmentation of prostate MRI scans using a &lt;strong&gt;Conditional Generative Adversarial Network (cGAN)&lt;/strong&gt;. The pipeline integrates volumetric 3D T2-weighted MRI data with advanced deep learning architectures to produce highly accurate slice-wise segmentations, later reconstructed into 3D volumes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preprocessing &amp;amp; normalization of 3D MRI volumes&lt;/li&gt;
+&lt;li&gt;Slice extraction for efficient training&lt;/li&gt;
+&lt;li&gt;U-Net based generator and PatchGAN discriminator&lt;/li&gt;
+&lt;li&gt;Adversarial training with combined L1 + GAN loss&lt;/li&gt;
+&lt;li&gt;K-Fold cross-validation for robust performance evaluation&lt;/li&gt;
+&lt;li&gt;Post-processing &amp;amp; morphological refinement for smooth and accurate segmentation&lt;/li&gt;
+&lt;li&gt;Performance metrics: Dice, Precision, Recall, Hausdorff distance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Repository:&lt;/strong&gt; Private (Available upon request)&lt;/p&gt;
+&lt;h3 id=&#34;gan-pipeline&#34;&gt;GAN Pipeline&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;3D Prostate GAN Pipeline&#34; 
+               srcset=&#34;http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_e1800836497d3bbc.webp 320w, http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_a17ee997b434f4d3.webp 480w, http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_b9ce7901b11872d6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/prostate_gan_3d_nifti/gan_pipeline_hu_e1800836497d3bbc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The illustration above summarizes the workflow from &lt;strong&gt;raw MRI input → preprocessing → GAN-based segmentation → 3D volume reconstruction → post-processing&lt;/strong&gt;. This approach enables automated and reproducible segmentation, facilitating downstream radiomics analysis and clinical decision support.&lt;/p&gt;
+&lt;h3 id=&#34;impact--applications&#34;&gt;Impact &amp;amp; Applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports reproducible biomedical imaging research&lt;/li&gt;
+&lt;li&gt;Enables accurate prostate segmentation for radiomics and AI-driven diagnosis&lt;/li&gt;
+&lt;li&gt;Facilitates quantitative assessment of anatomical structures in 3D MRI&lt;/li&gt;
+&lt;li&gt;Demonstrates integration of generative AI models for clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h3&gt;
+&lt;p&gt;The pipeline includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Data Handling:&lt;/strong&gt; 3D NIfTI MRI volumes are normalized and augmented.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model Architecture:&lt;/strong&gt; 3D U-Net generator with PatchGAN discriminator for adversarial learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Training Strategy:&lt;/strong&gt; Combined L1 reconstruction loss + adversarial loss for realistic and accurate segmentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Evaluation:&lt;/strong&gt; Dice similarity, Precision, Recall, and Hausdorff distance metrics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post-Processing:&lt;/strong&gt; Morphological operations refine segmented masks for smooth 3D surfaces.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The repository contains sensitive patient data and is &lt;strong&gt;private&lt;/strong&gt;. Access can be granted upon request for research collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimized Deep Learning for Mammography: Augmentation and Tailored Architectures</title>
+      <link>http://localhost:1313/publications/3/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

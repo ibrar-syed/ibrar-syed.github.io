@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transport Equation |</title><link>https://ibrar-syed.github.io/tags/transport-equation/</link><atom:link href="https://ibrar-syed.github.io/tags/transport-equation/index.xml" rel="self" type="application/rss+xml"/><description>Transport Equation</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ibrar-syed.github.io/media/icon_hu_702a800cd775dbac.png</url><title>Transport Equation</title><link>https://ibrar-syed.github.io/tags/transport-equation/</link></image><item><title>Numerical solutions of Schrödinger wave equation and Transport equation through Sinc collocation method</title><link>https://ibrar-syed.github.io/publications/14/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ibrar-syed.github.io/publications/14/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transport Equation | </title>
+    <link>http://localhost:1313/tags/transport-equation/</link>
+      <atom:link href="http://localhost:1313/tags/transport-equation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transport Equation</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Transport Equation</title>
+      <link>http://localhost:1313/tags/transport-equation/</link>
+    </image>
+    
+    <item>
+      <title>Numerical solutions of Schrödinger wave equation and Transport equation through Sinc collocation method</title>
+      <link>http://localhost:1313/publications/14/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
