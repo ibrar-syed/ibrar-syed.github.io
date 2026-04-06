@@ -1,18 +1,24 @@
 ---
-title: Research Article Presentation at NodyCon 2023, Rome
+title: "Research Article Presentation at NodyCon 2023, Rome"
 date: 2023-06-18
 lastmod: 2023-06-22
-event_url: https://www.nodycon.org/
-location: Sapienza University of Rome, Italy
+
+event: "NodyCon 2023"
+event_url: "https://www.nodycon.org/"
+location: "Sapienza University of Rome, Italy"
+
 event_type: conference
 tags:
   - oral presentation
   - conference
   - nodycon
   - nanofluids
+
 categories:
   - talk
-summary: Research article presentation on hydrogen in conductors with copper and silver nanoparticles, analyzing mixed convection and variable viscosity effects.
+
+summary: "Research article presentation on hydrogen in conductors with copper and silver nanoparticles, analyzing mixed convection and variable viscosity effects."
+
 abstract: |
   <div style="text-align: justify;">
   This chapter presents an analysis of the influence of mixed convection and variable viscosity under the impact of a transverse magnetic field on a stretching surface. Nanofluid viscidness is supposed to be reliant on temperature. The influence of variable viscidity on the transversal magnetic field and hybrid convection can be seen by using Reynold’s model.
@@ -23,20 +29,23 @@ abstract: |
 
   This research helps minimize fluid flow, increases fluid temperature, and modifies thermal boundary thickness by adjusting the Hartmann number. The effect of mixed convection and applied transverse magnetic field is also analyzed.
   </div>
+
 authors:
   - Syed Ibrar Hussain
-featured_image: figure1.jpg
+
+featured_image: "figure1.jpg"
+
 images:
-  - figure1.jpg
-  - figure2.jpg
+  - "figure1.jpg"
+  - "figure2.jpg"
+
 image_captions:
-  - Graphical illustration of numerical methodology.
-  - Illustration of physical problem in cartesian coordinates.
+  - "Graphical illustration of numerical methodology."
+  - "Illustration of physical problem in cartesian coordinates."
+
 links:
   - name: Published Article
-    url: https://doi.org/10.1007/978-3-031-50631-4_5
-draft: false
-event_start: 2023-06-18
-event_name: NodyCon 2023
----
+    url: "https://doi.org/10.1007/978-3-031-50631-4_5"
 
+draft: false
+---

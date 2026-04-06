@@ -2,8 +2,11 @@
 title: "Poster Presentation: Prostate MRI Segmentation at ICIAP 2025, Rome"
 date: 2025-09-15
 lastmod: 2025-09-15
-event_url: https://www.iciap2025.org/
-location: Rome, Italy
+
+event: "International Conference on Image Analysis and Processing (ICIAP 2025)"
+event_url: "https://www.iciap2025.org/"
+location: "Rome, Italy"
+
 event_type: conference
 tags:
   - poster presentation
@@ -12,24 +15,28 @@ tags:
   - mpMRI
   - medical imaging
   - radiomics
+
 categories:
   - talk
-summary: Poster on automated prostate MRI segmentation using deep learning models (U-Net, E-Net), highlighting clinical relevance and improved diagnostic accuracy.
+
+summary: "Poster on automated prostate MRI segmentation using deep learning models (U-Net, E-Net), highlighting clinical relevance and improved diagnostic accuracy."
+
 authors:
   - Syed Ibrar Hussain
+
 files:
   - name: Poster PDF
-    url: poster.pdf
+    url: "poster.pdf"
   - name: Poster PPT
-    url: poster.pptx
+    url: "poster.pptx"
+
 links:
   - name: Event Website
-    url: https://sites.google.com/view/iciap25
-draft: false
-event_start: 2025-09-15
-event_name: International Conference on Image Analysis and Processing (ICIAP 2025)
----
+    url: "https://sites.google.com/view/iciap25"
 
+draft: false
+
+---
 
 ## Project Abstract
 
