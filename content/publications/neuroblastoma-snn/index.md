@@ -31,7 +31,7 @@ featured: true
 
 links:
   - type: article
-    url: "https://www.sciencedirect.com/science/article/pii/REPLACE_WITH_REAL_ID"
+    url: "https://www.researchgate.net/publication/401246221_On_the_Investigation_of_the_dynamical_mechanisms_of_neuroblastoma_by_stochastic_neural_networks"
 
 image:
   src: "https://via.placeholder.com/600x400.png?text=Neuroblastoma+BRA-SNN"
